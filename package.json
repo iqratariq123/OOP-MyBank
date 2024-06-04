@@ -1,0 +1,19 @@
+{
+  "name": "tbiproject-11-oop--mybank",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iqra tariq",
+  "license": "ISC",
+  "description": "this is project 11 oop mybank",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
